@@ -76,7 +76,7 @@ file-name = File name
 folder-name = Folder name
 file-already-exists = A file with that name already exists
 folder-already-exists = A folder with that name already exists
-name-hidden = Names starting with "." will be hidden
+name-hidden = Items whose names start with "." will be hidden
 name-invalid = Name cannot be "{$filename}"
 name-no-slashes = Name cannot contain slashes
 
